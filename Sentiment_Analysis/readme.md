@@ -10,7 +10,7 @@ Dataset
 The [Amazon Fine Food Reviews dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) contains over 500,000 reviews of food products sold on Amazon from 1999 to 2012. The reviews include information about the product, the reviewer, and the text of the review, as well as a score ranging from 1 to 5.
 
 <h2> Code </h2>
-The code for this project can be found in the [Jupyter notebook available] on GitHub.
+The code for this project can be found in the Jupyter notebook available on GitHub.
 
 The notebook uses Python, and the following packages:
 * numpy
